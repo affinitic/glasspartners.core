@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<import-steps>
+  <import-step id="glasspartners.core.default"
+               handler="glasspartners.core.setuphandlers.installCore"
+               title="glasspartners.core: install import step">
+  </import-step>
+</import-steps>
